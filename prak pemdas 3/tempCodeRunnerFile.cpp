@@ -1,1 +1,1 @@
-float berat, tinggi, bmi
+Fungsi menentukan status BMI
