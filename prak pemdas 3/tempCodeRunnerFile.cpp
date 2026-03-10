@@ -1,1 +1,1 @@
-Fungsi menghitung BMI
+Prosedur untuk input data
